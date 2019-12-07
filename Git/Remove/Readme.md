@@ -27,7 +27,7 @@ If the file was added with your most recent commit, and you have not pushed to G
     # Simply making a new commit won't work, as you need
     # to remove the file from the unpushed history as well
     ```
-Push your commits to GitHub:
+1. Push your commits to GitHub:
     ```git
     $ git push
     # Push our rewritten, smaller commit    
