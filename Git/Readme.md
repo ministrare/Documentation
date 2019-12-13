@@ -7,4 +7,6 @@
 - [Commit](./Commit/)
 - [Merge](./Merge/)
 - [Remove](./Remove/)
-- [Status](./Satus)  
+- [Reset](./Reset/)
+- [Status](./Status/)
+

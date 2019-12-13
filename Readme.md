@@ -6,5 +6,6 @@
 - [Git](./Git/)
 - [Json](./Json/)
 - [Laravel](./Laravel/)
+- [Linux](./Linux/)
 - [PHP](./PHP/)
 - [SQL](./SQL/)
