@@ -2,11 +2,11 @@
 ## CakePHP
 
 ### Folders Index 
-- [Bin/cake](./Bin-cake/)
-- [Composer](./Composer/)
-- [IndexTable](./Index-tables/)
-- [Finders](./Finders/)
-- [Nieuw Project](./New-project/)
+- [Bin/cake](./Bin-cake)
+- [Composer](./Composer)
+- [IndexTable](./Index-tables)
+- [Finders](./Finders)
+- [Nieuw Project](./New-project)
 
 
 ### To Classify
