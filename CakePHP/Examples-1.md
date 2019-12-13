@@ -2,7 +2,7 @@
 
 
 Next scrip is used to copy and paste a new row in a table:
-```php
+```JS
 <script>
 <?php $this->Html->scriptStart(['block' => 'scriptBottom', 'inline' => false]); ?>
 $(document).ready(function () {
@@ -36,6 +36,7 @@ $(document).ready(function () {
 
         $('#table-competences tbody').append(row.replace(new RegExp('row-id', 'g'), competenceCount));
 
+        // Datepicker
         $('.form-group-employee-employee-competences-' + competenceCount + '-expiration-date .form-group-content.input-group').datepicker({
             autoclose: true,
             clearBtn: true,
