@@ -10,6 +10,7 @@
 - [Run a Migration](#Run-a-migration)
 - [Run only Plugin Migrations](#Run-only-migration-plugin)
 - [Run a Shell Program](#Run-a-shell-program)
+- [Be able to Load images inside the Editor](#Be-able-to-Load-images-inside-the-Editor)
 - [Translating PDF](#Translating-PDF)
 
 ### Create a info user
@@ -68,6 +69,12 @@ bin/cake Planning (function name)
 ### Run Seeders
 ```
 bin/cake migrations seed -p BackCore
+```
+
+### Be able to Load images inside the Editor
+```
+bin/cake plugin assets symlink
+bin/cake FormManager.Editor CreateFileManagerConfig
 ```
 
 ### Translating PDF
