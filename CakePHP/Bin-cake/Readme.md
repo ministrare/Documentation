@@ -58,7 +58,7 @@ bin/cake Migrations.migrations migrate
 
 ### Run only migration plugin
 ``` 
-bin/cake migrations -p BackStock
+bin/cake migrations migrate -p BackStock
 ```
 
 ### Run a shell program
