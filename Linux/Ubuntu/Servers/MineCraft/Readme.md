@@ -1,5 +1,5 @@
 # Personal Documentation
-## Linux / Servers / MineCraft
+## Linux / Ubuntu / Servers / MineCraft
 
 ### Index
 - [Prerequisites](#Prerequisites)
