@@ -3,15 +3,15 @@
 
 ### Index
 - [Prerequisites](#Prerequisites)
-- [Installing Java Runtime Environment](#Installing Java Runtime Environment)
-- [Creating Minecraft User](#Creating Minecraft User)
-- [Installing Minecraft on Ubuntu](#Installing Minecraft on Ubuntu)
-- [Downloading Minecraft Server](#Downloading Minecraft Server)
-- [Creating Systemd Unit File](#Creating Systemd Unit File)
-- [Adjusting Firewall](#Adjusting Firewall)
-- [Configuring Backups](#Configuring Backups)
-- [Accessing Minecraft Console](#Accessing Minecraft Console)
-- [Conclusion ](#Conclusion )
+- [Installing Java Runtime Environment](#Installing_Java_Runtime_Environment)
+- [Creating Minecraft User](#Creating_Minecraft_User)
+- [Installing Minecraft on Ubuntu](#Installing_Minecraft_on_Ubuntu)
+- [Downloading Minecraft Server](#Downloading_Minecraft_Server)
+- [Creating Systemd Unit File](#Creating_Systemd_Unit_File)
+- [Adjusting Firewall](#Adjusting_Firewall)
+- [Configuring Backups](#Configuring_Backups)
+- [Accessing Minecraft Console](#Accessing_Minecraft_Console)
+- [Conclusion](#Conclusion)
 
 ### Prerequisites
 The user you are logged in as must have sudo privileges to be able to install packages.
