@@ -280,9 +280,10 @@ To access the Minecraft Console you can use the `mcrcon` utility. The syntax is 
 
 ```terminal
 /opt/minecraft/tools/mcrcon/mcrcon -H 127.0.0.1 -P 25575 -p strong-password -t
-
+```
 current in use:
-/opt/minecraft/tools/mcrcon/mcrcon -H 127.0.0.1 -P 25575 -p 9ZnJv8a97zNFRZSN -t
+```terminal
+/opt/minecraft/tools/mcrcon/mcrcon -H 192.168.0.100 -P 25575 -p 9ZnJv8a97zNFRZSN -t
 ```
 Output:
 ```terminal
