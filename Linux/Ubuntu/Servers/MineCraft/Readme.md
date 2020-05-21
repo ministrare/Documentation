@@ -14,6 +14,7 @@
 - [Configuring Backups](#Configuring-Backups)
 - [Accessing Minecraft Console](#Accessing-Minecraft-Console)
 - [Conclusion](#Conclusion)
+- [Resources](#Resources)
 
 ### Prerequisites
 The user you are logged in as must have sudo privileges to be able to install packages.
