@@ -37,6 +37,7 @@ bin/cake core.migrations install
 Copy and paste the next part behind the URL
 ```
 /clear-cache?token=18757c32027188bf372400629967423e55679aec
+/clear-core-cache?token=18757c32027188bf372400629967423e55679aec
 ```
 Within the terminal:
 ```
