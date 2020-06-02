@@ -3,16 +3,15 @@
 
 ### Folders Index 
 - [Bin/cake](./Bin-cake)
-- [Detail Item](./DetailItem)
 - [Composer](./Composer)
-- [Crons](./Crons)
-- [IndexTable](./Index-tables)
-- [Finders](./Finders)
 - [New Project](./New-project)
-- [Requests](./Requests)
-- [Table association](./Table-association)
+- [Packages](./Packages)
+- [Snippets](./Snippets)
+- [SRC](./src)
 
-### Undefined
+---
+
+### Snippets
 - [Print_r < pre >](#print_r--pre-)
 - [Run Packages](#run-packages)
 

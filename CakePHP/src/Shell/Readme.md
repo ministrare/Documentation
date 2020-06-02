@@ -1,11 +1,8 @@
 # Personal Documentation
-## CakePHP / "Crons"
+## CakePHP / SRC / "Crons"
 
 ### Index
 - [Create a Cron on Combell](#create-a-cron-on-combell)
-- [](./)
-- [](./)
-- [](./)
 
 ### Create a Cron on Combell
 Open Mremote and check in the root folder if project has any crons. \

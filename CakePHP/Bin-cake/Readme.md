@@ -13,6 +13,8 @@
 - [Be able to Load images inside the Editor](#Be-able-to-Load-images-inside-the-Editor)
 - [Translating PDF](#Translating-PDF)
 
+---
+
 ### Create a info user
 ```
 bin/cake migrations seed -p BackCore

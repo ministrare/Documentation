@@ -2,14 +2,25 @@
 ## CakePHP / "Bin/Cake"
 
 ### Index
-- [If PHP version is to old](#If-PHP-version-is-to-old)
-- [](#)
+- [Install packages locally](#update-packages-locally)
+- [Install Packages test](#install-packages-test)
 - [](#)
 - [](#)
 - [](#)
 
-### If PHP version is to old
+### Install packages locally
+```
+composer install
+```
+
+### Install Packages test
 ```
 composer install --ignore-platform-reqs
+```
+
+### update packages locally
+Only done on local machine, Never on Test server!
+```
+composer update
 ```
 
