@@ -23,9 +23,7 @@ print_r($shoppingCart['products'][$productId][$productIndex]);die;
 
 ### Run Packages
 ```
-php subsites/packages.digitaltalents.be/satis/bin/satis build 
-subsites/packages.digitaltalents.be/satis/satis.json 
-subsites/packages.digitaltalents.be/satis/web
+php subsites/packages.digitaltalents.be/satis/bin/satis build subsites/packages.digitaltalents.be/satis/satis.json subsites/packages.digitaltalents.be/satis/web
 ```
 
 
